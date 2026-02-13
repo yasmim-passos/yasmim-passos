@@ -1,11 +1,12 @@
-# 👋 Olá! Eu sou Yasmim
+# 👋Hi! I am Yasmim
 
-* 💻 Desenvolvedora apaixonada por tecnologia
-* 🚀 Sempre aprendendo coisas novas
+* 💻 Developer passionate about technology
+* 🎓 Information Systems Student at UFS
+* 🚀 Always learning new things
 
----
+--- 
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yasmim-passos/yasmim-passos/main/metrics.svg" />
@@ -13,7 +14,7 @@
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🧠 Languages and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,mysql,git" />
@@ -21,7 +22,7 @@
 
 ---
 
-## 🐍 Minhas contribuições - Grid Snake
+## 🐍 My Contributions - Grid Snake
 
 <p align="center">
   <img src="https://github.com/yasmim-passos/yasmim-passos/blob/output/github-contribution-grid-snake.svg" />
@@ -29,12 +30,12 @@
 
 ---
 
-## 🌎 Onde me encontrar
+## 🌎 Where to Find Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yasmim-passos-037676212/
-- 🗃️ Portfólio: https://yasmim-passos.github.io/
+- 🗃️ Portfolio: https://yasmim-passos.github.io/
 - 📧 Email: passosyasmim08@gmail.com
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+⭐ Thank you for visiting my profile!
