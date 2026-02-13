@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Yasmim
 
-<!--
-**yasmim-passos/yasmim-passos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora apaixonada por tecnologia
+🚀 Sempre aprendendo coisas novas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,mysql,git" />
+</p>
+
+---
+
+## 🐍 Minhas contribuições sendo comidas pela cobrinha
+
+<p align="center">
+  <img src="https://github.com/yasmim-passos/yasmim-passos/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yasmim-passos-037676212/
+- 🗃️ Portfólio: https://yasmim-passos.github.io/
+- 📧 Email: passosyasmim08@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
