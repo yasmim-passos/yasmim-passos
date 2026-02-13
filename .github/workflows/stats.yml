@@ -1,7 +1,4 @@
-name: Generate GitHub Stats
-
-permissions:
-  contents: write
+name: GitHub Metrics
 
 on:
   schedule:
@@ -9,27 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    permissions:
+      contents: write
 
-      - name: Generate Stats
+    steps:
+      - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: yasmim-passos
           template: classic
-          base: activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          
-      - name: Commit metrics
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add metrics.svg || true
-          git commit -m "Update metrics" || echo "No changes"
-          git push
