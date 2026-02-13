@@ -8,11 +8,7 @@
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yasmim-passos&show_icons=true&theme=tokyonight" />
-
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasmim-passos&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/yasmim-passos/yasmim-passos/main/metrics.svg" />
 </p>
 
 ---
