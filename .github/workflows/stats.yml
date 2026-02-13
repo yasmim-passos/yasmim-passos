@@ -19,12 +19,13 @@ jobs:
       - name: Generate Stats
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: yasmim-passos
           template: classic
           base: activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-
+          
       - name: Commit metrics
         run: |
           git config user.name github-actions
