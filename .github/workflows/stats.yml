@@ -29,7 +29,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
+          git add metrics.svg || true
           git commit -m "Update metrics" || echo "No changes"
-          git pull --rebase
           git push
