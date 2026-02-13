@@ -21,7 +21,7 @@
 
 ---
 
-## 🐍 Minhas contribuições sendo comidas pela cobrinha
+## 🐍 Minhas contribuições - Grid Snake
 
 <p align="center">
   <img src="https://github.com/yasmim-passos/yasmim-passos/blob/output/github-contribution-grid-snake.svg" />
