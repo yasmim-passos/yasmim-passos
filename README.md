@@ -11,7 +11,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasmim-passos/yasmim-passos/main/metrics.svg" />
+ <img src="https://streak-stats.demolab.com?user=yasmim-passos&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
