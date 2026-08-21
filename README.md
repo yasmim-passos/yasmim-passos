@@ -1,7 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20,24&section=header&text=&fontSize=0" />
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi!+My+name+is+Yasmim+Passos+%F0%9F%91%8B" />
 </p>
