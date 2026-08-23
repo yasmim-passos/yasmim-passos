@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=yasmim-passos&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Languages and Technologies
+## Languages and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,mysql,git" />
@@ -20,7 +20,7 @@
 
 ---
 
-## 🐍 My Contributions - Grid Snake
+## My Contributions
 
 <p align="center">
   <img src="https://github.com/yasmim-passos/yasmim-passos/blob/output/github-contribution-grid-snake.svg" />
@@ -28,12 +28,8 @@
 
 ---
 
-## 🌎 Where to Find Me
+## Where to Find Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yasmim-passos-037676212/
-- 🗃️ Portfolio: https://yasmim-passos.github.io/
-- 📧 Email: passosyasmim08@gmail.com
-
----
-
-⭐ Thank you for visiting my profile!
+- LinkedIn: https://www.linkedin.com/in/yasmim-passos-037676212/
+- Portfolio: https://yasmim-passos.github.io/
+- Email: passosyasmim08@gmail.com
